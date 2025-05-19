@@ -67,7 +67,7 @@ function LoginPageView() {
           onClick={handleSendVerificationCode}
           className={style.sendButton}
         >
-          인증번호 받기
+          인증번호 받아볼까
         </button>
       </div>
     );
